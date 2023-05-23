@@ -1,0 +1,29 @@
+body {
+background-color: black;
+}
+h5{
+    color: cyan;
+}
+
+p{
+color: blueviolet;
+}
+
+.imagensSanses{
+    width: 230px;
+    height: 500px;
+    border-color: white;
+
+}
+.imagensSanses:hover{
+    transform: scale(1.2);
+}
+.imagensGemios{
+    width: 230px;
+    height: 500px;
+    border-color: white;
+
+}
+.imagensGemios:hover{
+    transform: scale(1.2);
+}
